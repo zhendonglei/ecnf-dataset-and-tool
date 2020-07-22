@@ -1,0 +1,2 @@
+usage:
+./bin <inputecnf_file> <outputwcnf_file>

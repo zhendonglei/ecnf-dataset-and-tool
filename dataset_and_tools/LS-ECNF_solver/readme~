@@ -1,0 +1,9 @@
+usage:
+./LS-ECNF <input-ecnf-file> <cutofftime> >> <output_file>
+
+in <output_file>:
+the first figure is the cost of the best solution LS-ECNF solver found, and the second one is the corresponding time.
+
+there also is an output file named as "solution.res"
+in "solution.res":
+the first figure represents the number of variables, followed by the assignment of the corresponding best solution.
